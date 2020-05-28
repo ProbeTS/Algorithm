@@ -23,11 +23,11 @@ Catalan Number.
 
 The recursion is as follows
 $$
-![](http://latex.codecogs.com/gif.latex?C_n=C_{n-1} \frac {4*n-2} {n+1})
+(http://latex.codecogs.com/gif.latex?C_n=C_{n-1} \frac {4*n-2} {n+1})
 $$
 The general term is as follows
 $$
-![](http://latex.codecogs.com/gif.latex?\\frac {C_{2n}^n} {n+1}) 
+(http://latex.codecogs.com/gif.latex?\\frac {C_{2n}^n} {n+1}) 
 $$
 
 
